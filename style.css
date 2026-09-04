@@ -40,6 +40,8 @@
   }
   .wrap{max-width:1220px; margin:0 auto; padding:0 32px;}
   section{padding:76px 0;}
+  .roles-tight{ padding-bottom:20px; }
+  .why{ padding-top:40px; }
   @media(max-width:720px){ section{padding:64px 0;} .wrap{padding:0 22px;} }
   .icon{ width:26px; height:26px; stroke:currentColor; fill:none; stroke-width:1.8; }
   .em{ color:var(--magenta); font-style:normal; font-weight:800; }
